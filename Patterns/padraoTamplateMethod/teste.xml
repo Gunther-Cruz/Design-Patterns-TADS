@@ -1,0 +1,17 @@
+<data>
+  <record>
+    <Nome>João</Nome>
+    <Idade>28</Idade>
+    <Cidade>Rio de Janeiro</Cidade>
+  </record>
+  <record>
+    <Nome>Maria</Nome>
+    <Idade>34</Idade>
+    <Cidade>Porto Alegre</Cidade>
+  </record>
+  <record>
+    <Nome>Pedro</Nome>
+    <Idade>45</Idade>
+    <Cidade>Belo Horizonte</Cidade>
+  </record>
+</data>

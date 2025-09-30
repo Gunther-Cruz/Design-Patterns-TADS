@@ -1,0 +1,5 @@
+Lista de usuarios
+Nome | Idade | Cidade | 
+João | 28 | Rio de Janeiro | 
+Maria | 34 | Porto Alegre | 
+Pedro | 45 | Belo Horizonte | 
